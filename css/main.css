@@ -85,6 +85,7 @@ textarea {
 
    body {
     text-align: justify;
+    font: "Helvetica Neue", Helvetica, Arial, sans-serif;
    }
 
     h2 {
@@ -101,7 +102,9 @@ textarea {
     color: #000 !important;
     border-bottom: .17em solid #8dc63f;
    }
-
+  p {
+      line-height: 1.75em;
+  }
 
 
 
